@@ -7,4 +7,4 @@ Tecnologias utilizadas: HTML e CSS.
 
 As instruções de execução estão no arquivo e o site está no link a seguir:
 
-https://adri3leleal02.github.io/adriele/ 
+# https://adri3leleal02.github.io/adriele/ 
